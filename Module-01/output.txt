@@ -1,1 +1,3 @@
-Odd Number
+Eight
+Even Number
+Vowel
